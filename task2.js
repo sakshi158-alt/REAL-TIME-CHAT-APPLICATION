@@ -19,8 +19,7 @@ wss.on('connection', ws => {
 
 server.listen(3000, () => {
   console.log('Server is listening on port 3000');
-});
-// App.js
+});// App.js
 import React, { useState, useEffect, useRef } from 'react';
 
 const App = () => {
