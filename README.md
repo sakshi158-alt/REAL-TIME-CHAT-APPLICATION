@@ -127,3 +127,6 @@ const App = () => {
 export default App;
 This is just a simple example to get you started. You can enhance this by adding features like user authentication, persistent message storage, typing indicators, etc. Enjoy building your chat application! 😊
 
+#0UTPUT
+
+![Image](https://github.com/user-attachments/assets/9559806b-347f-4ca1-b508-e859e58130e7)
